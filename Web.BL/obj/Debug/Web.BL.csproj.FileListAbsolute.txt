@@ -1,0 +1,13 @@
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\Web.BL.dll.config
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\Web.BL.dll
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\Web.BL.pdb
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\AutoMapper.dll
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\EntityFramework.dll
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\AutoMapper.xml
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\EntityFramework.xml
+D:\Aplicaciones\Core\WebApi\Web.BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Core\WebApi\Web.BL\obj\Debug\Web.BL.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\Core\WebApi\Web.BL\obj\Debug\Web.BL.csproj.CopyComplete
+D:\Aplicaciones\Core\WebApi\Web.BL\obj\Debug\Web.BL.dll
+D:\Aplicaciones\Core\WebApi\Web.BL\obj\Debug\Web.BL.pdb
